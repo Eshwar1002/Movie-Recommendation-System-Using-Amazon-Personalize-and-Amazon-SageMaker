@@ -1,5 +1,5 @@
 Hey there this one is for testing the fetch, pull and status in the github.
 
-git fetch --> for fetching the fiel
+git fetch --> for fetching the file
 git pull --> for pulling the data
 git status
